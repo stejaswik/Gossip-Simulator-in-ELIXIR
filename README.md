@@ -18,27 +18,27 @@
    (iii) 3DTorus - The number of nodes are rounded to the nearest cube. <br />
 
 4. Largest network run with all topologies and algorithm : <br />
-<br />
-   a> Gossip Algorithm (largest number of nodes) : <br />
-      ==========================================
-<br />
-   (i)   Full --------------2900 <br />
-   (ii)  Line---------------4000 <br />
-   (iii) 2DRand-------------3000 <br />
-   (iv)  HoneyComb----------10000 <br />
-   (v)   HoneyCombRand------10000 <br />
-   (vi)  3DTorus------------8000 <br />
-<br />
-   b> Push-sum Algorithm (largest number of nodes) : <br />
-      ============================================
-<br />
-   (i)   Full --------------2900 <br />
-   (ii)  Line---------------4000 <br />
-   (iii) 2DRand-------------3000 <br />
-   (iv)  HoneyComb----------20000 <br />
-   (v)   HoneyCombRand------20000 <br />
-   (vi)  3DTorus------------15000 <br />
-<br />
+	<br />
+	   a> Gossip Algorithm (largest number of nodes) : <br />
+	      ==================
+	<br />
+	   (i)   Full --------------2900 <br />
+	   (ii)  Line---------------4000 <br />
+	   (iii) 2DRand-------------3000 <br />
+	   (iv)  HoneyComb----------10000 <br />
+	   (v)   HoneyCombRand------10000 <br />
+	   (vi)  3DTorus------------8000 <br />
+	<br />
+	   b> Push-sum Algorithm (largest number of nodes) : <br />
+	      ==================
+	<br />
+	   (i)   Full --------------2900 <br />
+	   (ii)  Line---------------4000 <br />
+	   (iii) 2DRand-------------3000 <br />
+	   (iv)  HoneyComb----------20000 <br />
+	   (v)   HoneyCombRand------20000 <br />
+	   (vi)  3DTorus------------15000 <br />
+	<br />
 5. "remove_nodes" is the variable used for failure model implementation, nodes to be failed can be mentioned here. <br />
    Default number is 10. <br />
 
