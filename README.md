@@ -18,10 +18,10 @@
    (iii) 3DTorus - The number of nodes are rounded to the nearest cube. <br />
 
 4. Largest network run with all topologies and algorithm : <br />
-
-   Gossip Algorithm (largest number of nodes) : <br />
-   ==========================================
-
+<br />
+   a> Gossip Algorithm (largest number of nodes) : <br />
+      ==========================================
+<br />
    (i)   Full --------------2900 <br />
    (ii)  Line---------------4000 <br />
    (iii) 2DRand-------------3000 <br />
@@ -29,8 +29,8 @@
    (v)   HoneyCombRand------10000 <br />
    (vi)  3DTorus------------8000 <br />
 <br />
-   Push-sum Algorithm (largest number of nodes) : <br />
-   ============================================
+   b> Push-sum Algorithm (largest number of nodes) : <br />
+      ============================================
 <br />
    (i)   Full --------------2900 <br />
    (ii)  Line---------------4000 <br />
